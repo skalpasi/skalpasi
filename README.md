@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **skalpasi/skalpasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +26,5 @@ Sarthak Kalpasi
 Common Languages
  </h2>
 <p align="center">
-  <img alt = "Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white">
-</p>
-<p align="center">
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoiv&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark">
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skalpasi&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark">
 </p>
