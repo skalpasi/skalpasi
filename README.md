@@ -14,18 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="skalpasi.github.io">
-<h1 align="center">
-Sarthak Kalpasi
-</h1>
-</a>
-<p align="center">
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=skalpasi&count_private=true&show_icons=true&icon_color=fff&hide_border=true&title_color=5391FE&text_color=fff&theme=dark">
-</p>
-<h2 align="center">
-Common Languages
- </h2>
-<p align="center">
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshcracker&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark">
- [![Kavin's github activity graph](https://activity-graph.herokuapp.com/graph?username=skalpasi&theme=github&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+# Sarthak Kalpasi
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skalpasi&count_private=true&show_icons=true&icon_color=fff&hide_border=true&title_color=5391FE&text_color=fff&theme=dark)
+
+## Common Languages
+
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skalpasi&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark)
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=skalpasi&theme=github&hide_border=true&custom_title=Contribution%20Graph)
