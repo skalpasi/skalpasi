@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Sarthak Kalpasi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skalpasi&count_private=true&show_icons=true&icon_color=fff&hide_border=true&title_color=5391FE&text_color=fff&theme=dark)
-Languages
+&nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skalpasi&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=skalpasi&theme=github&hide_border=true&custom_title=Contribution%20Graph)
