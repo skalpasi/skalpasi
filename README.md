@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 # Sarthak Kalpasi's stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skalpasi&count_private=true&show_icons=true&icon_color=fff&hide_border=true&title_color=5391FE&text_color=fff&theme=dark)
@@ -21,3 +22,4 @@ Here are some ideas to get you started:
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=skalpasi&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=fff&theme=dark)
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=skalpasi&theme=github&hide_border=true&custom_title=Contribution%20Graph)
+</p>
